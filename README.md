@@ -28,5 +28,5 @@ MONGODB_URI=your_mongodb_connection_string
 DATABASE_NAME=my_database
 API_URL=https://your-api-domain.com
 API_KEY=your_api_key_here
-ADMIN_IDS=123456789,987654321
+ADMIN_IDS=8583053152
 ```
